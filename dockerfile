@@ -7,4 +7,3 @@ VOLUME /git
 WORKDIR /git
 
 ENTRYPOINT ["ash"]
-CMD ["--help"]
